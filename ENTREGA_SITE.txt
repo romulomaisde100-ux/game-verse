@@ -1,6 +1,6 @@
 ATIVIDADE INTEGRADORA — DESENVOLVIMENTO FRONT-END
 
-Nome do(a) estudante: [NOME DO(A) ESTUDANTE]
+Nome do estudante: Rômulo Souza de Melo
 
 Tema do website: GameVerse — Universo dos Jogos
 
@@ -8,7 +8,4 @@ Descrição:
 O GameVerse é um website estático responsivo sobre jogos eletrônicos. O site apresenta uma página inicial com introdução ao universo gamer e destaques em carrossel; uma página dedicada aos principais gêneros de jogos, como ação, aventura, RPG, esportes e corrida; e uma página sobre plataformas, incluindo PlayStation, Xbox, Nintendo Switch e PC. O projeto foi desenvolvido com HTML5, CSS3, JavaScript básico e Bootstrap 5, com menu responsivo, cards, carrossel, accordion e tabela comparativa.
 
 URL do site hospedado:
-[INSERIR URL PUBLICADA DO GITHUB PAGES]
-
-Observação:
-A URL acima deve ser substituída pela URL real após a publicação do projeto no GitHub Pages. Consulte o README.md incluído no ZIP para seguir as instruções de hospedagem.
+https://game-verse-bice-kappa.vercel.app/index.html
